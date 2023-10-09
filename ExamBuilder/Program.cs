@@ -13,11 +13,6 @@
             var AUDI = new ProdactCar();
             AUDI.MakeHight("A8");
             Console.WriteLine();
-
-            for (int i = 1; i < 10; i++)
-            {
-                Console.WriteLine(i);
-            }
         }
     }
 }
